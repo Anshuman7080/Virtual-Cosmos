@@ -68,19 +68,7 @@ Open **multiple tabs** to simulate multiple users!
 
 ---
 
-## ⚙️ Environment Variables
 
-### Server (`server/.env`)
-```env
-PORT=5000
-MONGODB_URI=mongodb://localhost:27017/virtual-cosmos
-CLIENT_URL=http://localhost:5173
-```
-
-### Client (`client/.env`) — optional
-```env
-VITE_SERVER_URL=http://localhost:5000
-```
 
 ---
 
