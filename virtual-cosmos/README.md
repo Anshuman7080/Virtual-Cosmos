@@ -107,7 +107,7 @@ Open **multiple tabs** to simulate multiple users!
 
 ## 📹 Demo Video
 
-[Link to demo video]
+https://drive.google.com/file/d/1KVzx6CsEJJLQ1GBZx2bCXOd3EXb8lVR6/view?usp=drive_link
 
 ---
 
